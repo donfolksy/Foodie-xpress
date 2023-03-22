@@ -76,6 +76,7 @@ function Homepage() {
             </button>
           </div>
           <div className="sec-one2">
+            <h2>hello Boy</h2>
             <img id="phone-image" src={Phone} />
           </div>
         </div>
